@@ -7,4 +7,7 @@ image:
 
 containerPort: 8080
 
+service:
+  port: 80
+
 namespace: quay-test
