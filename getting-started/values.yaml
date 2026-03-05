@@ -1,0 +1,10 @@
+replicaCount: 1
+
+image:
+  repository: quay.io/ecrookshanks/getting-started-jvm
+  tag: 0.1.1
+  pullPolicy: IfNotPresent
+
+containerPort: 8080
+
+namespace: quay-test
