@@ -12,3 +12,4 @@ subjects:
     name: openshift-gitops-argocd-application-controller
     namespace: openshift-gitops
     
+
